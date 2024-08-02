@@ -3,7 +3,7 @@
 
 - ⚡️ I’m currently working on **5 AI projects as a SWE @ Headstarter AI**
 
-- 🌱 I’m currently learning **eal-time data synchronization and storage with Firebase**
+- 🌱 I’m currently learning **real-time data synchronization and storage with Firebase**
 
 - 📫 How to reach me **mehdi_atmani@brown.edu**
 
