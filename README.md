@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **real-time data synchronization and storage with Firebase**
 
+- 👾 My portfolio [https://medxo-pro.github.io/My-Landing-Page/](https://medxo-pro.github.io/My-Landing-Page/)
+
 - 📫 How to reach me **mehdi_atmani@brown.edu**
 
 <h3 align="left">Connect with me:</h3>
