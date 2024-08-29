@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mehdi 🚀</h1>
 <h3 align="center">A Sophomore @ Brown University</h3>
 
-- ⚡️ I’m currently working on **5 AI projects as a SWE @ Headstarter AI**
+- ⚡️ I’m currently working on **6 AI projects as a SWE @ Headstarter AI**
 
 - 🌱 I’m currently learning **real-time data synchronization and storage with Firebase**
 
